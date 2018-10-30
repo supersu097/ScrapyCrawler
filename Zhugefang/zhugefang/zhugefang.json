@@ -1,0 +1,55 @@
+[
+{"comm_name": "升龙国际中心", "comm_addr": "二七 市财政局 政通路仁和路 近升龙商业广场活力街区北门"},
+{"comm_name": "新里卢浮公馆二期", "comm_addr": "郑东新区 郑州东站 东风南路与列里路交叉口"},
+{"comm_name": "中方园东区", "comm_addr": "金水 陈寨 北环路 号"},
+{"comm_name": "财信圣堤亚纳", "comm_addr": "郑东新区 黄河南路 商都路 号"},
+{"comm_name": "威尼斯水城2期", "comm_addr": "中原 五龙口 冉屯路与冉屯东路交叉口向北 米"}
+][
+{"comm_name": "升龙国际中心", "comm_addr": "二七 市财政局 政通路仁和路 近升龙商业广场活力街区北门"},
+{"comm_name": "新里卢浮公馆二期", "comm_addr": "郑东新区 郑州东站 东风南路与列里路交叉口"},
+{"comm_name": "中方园东区", "comm_addr": "金水 陈寨 北环路116号"},
+{"comm_name": "财信圣堤亚纳", "comm_addr": "郑东新区 黄河南路 商都路21号"},
+{"comm_name": "威尼斯水城2期", "comm_addr": "中原 五龙口 冉屯路与冉屯东路交叉口向北150米"},
+{"comm_name": "亚星盛世郦都", "comm_addr": "二七 兴华南街 郑密路与长江路交汇处西北角"},
+{"comm_name": "美景鸿城", "comm_addr": "管城 管南区域 腾飞路1号院"},
+{"comm_name": "华林都市家园", "comm_addr": "金水 富田大厦 南阳路242号"},
+{"comm_name": "正商东方港湾", "comm_addr": "郑东新区 郑州东站 康平路9号"},
+{"comm_name": "正弘数码公寓", "comm_addr": "金水 文博广场 文博西路25号"},
+{"comm_name": "美景天城", "comm_addr": "管城 世纪欢乐园 石化路69号"}
+][
+{"comm_name": "财信圣堤亚纳", "comm_addr": "郑东新区 黄河南路 商都路21号", "comm_price": "23952", "const_era": "2015-06-20"}
+][
+{"comm_name": "升龙国际中心", "comm_addr": "二七 市财政局 政通路仁和路 近升龙商业广场活力街区北门", "comm_price": "16143", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": ""},
+{"comm_name": "新里卢浮公馆二期", "comm_addr": "郑东新区 郑州东站 东风南路与列里路交叉口", "comm_price": "22579", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": ""},
+{"comm_name": "中方园东区", "comm_addr": "金水 陈寨 北环路116号", "comm_price": "12655", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": ""},
+{"comm_name": "财信圣堤亚纳", "comm_addr": "郑东新区 黄河南路 商都路21号", "comm_price": "23952", "const_era": "2015-06-20", "property_desc": "", "plot_ratio": "", "greening_ratio": "45", "buildings_amount": "", "houses_amount": "", "property_fee": "1.85", "property_comp": "河南盛世物业", "dev_comp": "河南财信置业有限公司", "const_area": "板楼 高层"},
+{"comm_name": "威尼斯水城2期", "comm_addr": "中原 五龙口 冉屯路与冉屯东路交叉口向北150米", "comm_price": "15131", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": ""},
+{"comm_name": "亚星盛世郦都", "comm_addr": "二七 兴华南街 郑密路与长江路交汇处西北角", "comm_price": "16188", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": ""},
+{"comm_name": "美景鸿城", "comm_addr": "管城 管南区域 腾飞路1号院", "comm_price": "19015", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": ""},
+{"comm_name": "华林都市家园", "comm_addr": "金水 富田大厦 南阳路242号", "comm_price": "15555", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": ""},
+{"comm_name": "正商东方港湾", "comm_addr": "郑东新区 郑州东站 康平路9号", "comm_price": "23477", "const_era": "2008-09-20", "property_desc": "", "plot_ratio": "", "greening_ratio": "37.8", "buildings_amount": "", "houses_amount": "", "property_fee": "1.6", "property_comp": "河南正商物业管理有限公司", "dev_comp": "河南正商置业有限公司", "const_area": "塔楼 高层"},
+{"comm_name": "正弘数码公寓", "comm_addr": "金水 文博广场 文博西路25号", "comm_price": "19068", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": ""},
+{"comm_name": "美景天城", "comm_addr": "管城 世纪欢乐园 石化路69号", "comm_price": "15589", "const_era": "2005-06-07", "property_desc": "", "plot_ratio": "", "greening_ratio": "36.50", "buildings_amount": "", "houses_amount": "", "property_fee": "1.46", "property_comp": "郑州美景天城物业管理有限公司", "dev_comp": "河南美景鸿城置业有限公司", "const_area": "板楼 塔楼 多层 小高层 高层"},
+{"comm_name": "升龙又一城", "comm_addr": "高新区 新郑大 科学大道与春藤路交口", "comm_price": "14797", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": ""},
+{"comm_name": "中豪汇景湾", "comm_addr": "郑东新区 郑州东站 金水东路与心怡路交汇处向南500米路东", "comm_price": "27305", "const_era": "2011-09-10", "property_desc": "", "plot_ratio": "", "greening_ratio": "40", "buildings_amount": "", "houses_amount": "", "property_fee": "1.6", "property_comp": "浙江绿城物业管理有限公司河南分公司", "dev_comp": "河南中豪置业有限公司", "const_area": "板楼 塔楼 高层"},
+{"comm_name": "普罗旺世别墅", "comm_addr": "金水 庙李 国基路166号 国基路与索凌路交汇处", "comm_price": "26940", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": ""},
+{"comm_name": "明天花园", "comm_addr": "金水 绿荫广场 博颂路37号", "comm_price": "15200", "const_era": "2006-10-08", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "河南万厦物业管理有限公司", "dev_comp": "郑州明天实业有限公司", "const_area": "81611"},
+{"comm_name": "长城康桥华城", "comm_addr": "二七 老郑大 勤劳街", "comm_price": "15952", "const_era": "2006-10-28", "property_desc": "", "plot_ratio": "", "greening_ratio": "49", "buildings_amount": "", "houses_amount": "", "property_fee": "1.15", "property_comp": "河南长城饭店物业管理有限公司", "dev_comp": "郑州新长城房地产有限公司", "const_area": "318855"}
+][
+{"comm_name": "升龙国际中心", "comm_addr": "二七 市财政局 政通路仁和路 近升龙商业广场活力街区北门", "comm_price": "16143", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""},
+{"comm_name": "新里卢浮公馆二期", "comm_addr": "郑东新区 郑州东站 东风南路与列里路交叉口", "comm_price": "22579", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""},
+{"comm_name": "中方园东区", "comm_addr": "金水 陈寨 北环路116号", "comm_price": "12655", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""},
+{"comm_name": "财信圣堤亚纳", "comm_addr": "郑东新区 黄河南路 商都路21号", "comm_price": "23952", "const_era": "2015-06-20", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""},
+{"comm_name": "威尼斯水城2期", "comm_addr": "中原 五龙口 冉屯路与冉屯东路交叉口向北150米", "comm_price": "15131", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""},
+{"comm_name": "亚星盛世郦都", "comm_addr": "二七 兴华南街 郑密路与长江路交汇处西北角", "comm_price": "16188", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""},
+{"comm_name": "美景鸿城", "comm_addr": "管城 管南区域 腾飞路1号院", "comm_price": "19015", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""},
+{"comm_name": "华林都市家园", "comm_addr": "金水 富田大厦 南阳路242号", "comm_price": "15555", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""},
+{"comm_name": "正商东方港湾", "comm_addr": "郑东新区 郑州东站 康平路9号", "comm_price": "23477", "const_era": "2008-09-20", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""},
+{"comm_name": "正弘数码公寓", "comm_addr": "金水 文博广场 文博西路25号", "comm_price": "19068", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""},
+{"comm_name": "美景天城", "comm_addr": "管城 世纪欢乐园 石化路69号", "comm_price": "15589", "const_era": "2005-06-07", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""},
+{"comm_name": "升龙又一城", "comm_addr": "高新区 新郑大 科学大道与春藤路交口", "comm_price": "14797", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""},
+{"comm_name": "中豪汇景湾", "comm_addr": "郑东新区 郑州东站 金水东路与心怡路交汇处向南500米路东", "comm_price": "27305", "const_era": "2011-09-10", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""},
+{"comm_name": "普罗旺世别墅", "comm_addr": "金水 庙李 国基路166号 国基路与索凌路交汇处", "comm_price": "26940", "const_era": "", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""},
+{"comm_name": "明天花园", "comm_addr": "金水 绿荫广场 博颂路37号", "comm_price": "15200", "const_era": "2006-10-08", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""},
+{"comm_name": "长城康桥华城", "comm_addr": "二七 老郑大 勤劳街", "comm_price": "15952", "const_era": "2006-10-28", "property_desc": "", "plot_ratio": "", "greening_ratio": "", "buildings_amount": "", "houses_amount": "", "property_fee": "", "property_comp": "", "dev_comp": "", "const_area": "", "const_type": ""}
+]
