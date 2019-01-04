@@ -11,4 +11,5 @@ If anyone finds anything inappropriate, please notify me and I'll remove this pr
 - The crawler will get banned after running a while.
 - The ChromeDownloaderMiddleware I implemented seems that it'll make the function of AutoThrottle not
 work as expected. So, any pull request to improve this project is very welcome.
-
+## Yellowpages
+crawl the company name, phone number and its website link from yellowpages.com
